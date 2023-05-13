@@ -30139,7 +30139,7 @@ gn(a){return a.length}}
 A.AW.prototype={}
 A.wB.prototype={
 O(a){var s=null,r=A.a_T(15)
-return new A.pV(new A.n7(B.G9,!0,new A.E7(s,s,1/0,56),s),new A.hu(B.a6,s,s,A.a02(s,new A.of(A.abK(s,s,new A.na("promo.jpg",s,s)),B.tM,s),s,new A.e8(s,s,s,r,s,s,B.ay),600,B.w_,s,300),s),s)}}
+return new A.pV(new A.n7(B.G9,!0,new A.E7(s,s,1/0,56),s),new A.hu(B.a6,s,s,A.a02(s,new A.of(A.abK(s,s,new A.na("assets/promo.jpg",s,s)),B.tM,s),s,new A.e8(s,s,s,r,s,s,B.ay),600,B.w_,s,300),s),s)}}
 A.xo.prototype={
 O(a){return new A.oL(B.wi,"Flutter Demo",A.a4j(null,B.ew,null),null)}}
 A.wy.prototype={
